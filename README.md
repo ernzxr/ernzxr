@@ -33,7 +33,7 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
     | Spanish | Native |
     | English | Advanced | 
 
-### 🧠 **Learning**
+### **5 Commands**
 
 | commands | Description |
 | ------- | ------- |
@@ -42,6 +42,8 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
 | cd | Used to navigate across folders. | 
 | clear | Clear the terminal. | 
 | pwd | Shows the current folder we're in. | 
+
+### **2 Alias**
 
 | alias | Description |
 | ------- | ------- |
