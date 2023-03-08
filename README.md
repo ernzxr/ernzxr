@@ -10,24 +10,24 @@ I had adquire experience of multiple jobs, most of them from the esports industr
 
 I worked as freelance content creator of gaming, esports and on-demand content categories. As professional player and coach of PUBG/VALORANT with international presence, and last for companys as content director, broadcast manager, broadcast operator and stage manager of live shows.
 
-### 💜 **Aspirations**
+### **Aspirations**
 
 With time i realiced i loved programming. In the past i worked as IT support, where i does lot of micro fixes doing code without further. Today i want to become a good programmer and look for projects that feed my need of knowledge.
 
 ### 💪🏻 **Skills**
 
-* 🎨 ***Design***
+* ***Design***
     * Canva
     * CorelDRAW, Photoshop, Illustrator
     * VEGAS Pro, CapCut
-* 🎥 ***Broadcast***
+* ***Broadcast***
     * OBS
     * Voicemeeter, Voicemod
-* 👨🏻‍💻 ***Tools***
+* ***Tools***
     * Notion, ClickUp
     * Slack, Discord
     * Google Suite
-* 👥 ***Languages***
+* ***Languages***
     | Languages | Level |
     | - | - |
     | Spanish | Native |
