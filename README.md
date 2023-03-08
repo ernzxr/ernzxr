@@ -17,16 +17,16 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
 ### 💪🏻 **Skills**
 
 * 🎨 ***Design***
-    *. Canva
-    *. CorelDRAW, Photoshop, Illustrator
-    *. VEGAS Pro, CapCut
+    * Canva
+    * CorelDRAW, Photoshop, Illustrator
+    * VEGAS Pro, CapCut
 * 🎥 ***Broadcast***
-    *. OBS
-    *. Voicemeeter, Voicemod
+    * OBS
+    * Voicemeeter, Voicemod
 * 👨🏻‍💻 ***Tools***
-    *. Notion, ClickUp
-    *. Slack, Discord
-    *. Google Suite
+    * Notion, ClickUp
+    * Slack, Discord
+    * Google Suite
 * 👥 ***Languages***
     | Language | Level |
     | - | - |
