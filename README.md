@@ -12,21 +12,21 @@ I worked as freelance content creator of gaming, esports and on-demand content c
 
 ### 💜 **Aspirations**
 
-With time i realiced i loved programming. In the past i worked as IT support, where i does lot of micro fixes doing code without further. Today i want to become a good programmer and look for  projects that feed my need of knowledge and of make things.
+With time i realiced i loved programming. In the past i worked as IT support, where i does lot of micro fixes doing code without further. Today i want to become a good programmer and look for projects that feed my need of knowledge.
 
 ### 💪🏻 **Skills**
 
 * 🎨 ***Design***
-    1. Canva
-    2. CorelDRAW, Photoshop, Illustrator
-    3. VEGAS Pro, CapCut
+    *. Canva
+    *. CorelDRAW, Photoshop, Illustrator
+    *. VEGAS Pro, CapCut
 * 🎥 ***Broadcast***
-    1. OBS
-    2. Voicemeeter, Voicemod
+    *. OBS
+    *. Voicemeeter, Voicemod
 * 👨🏻‍💻 ***Tools***
-    1. Notion, ClickUp
-    2. Slack, Discord
-    3. Google Suite
+    *. Notion, ClickUp
+    *. Slack, Discord
+    *. Google Suite
 * 👥 ***Languages***
     | Language | Level |
     | - | - |
