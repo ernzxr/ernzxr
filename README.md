@@ -28,7 +28,7 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
     * Slack, Discord
     * Google Suite
 * 👥 ***Languages***
-    | Language | Level |
+    | Languages | Level |
     | - | - |
     | Spanish | Native |
     | English | Advanced | 
