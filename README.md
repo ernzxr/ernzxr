@@ -47,7 +47,5 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
 
 | alias | Description |
 | ------- | ------- |
-| ```cl="clear"``` | Clear the terminal. |
-| 
-``` alias cafe="cat /dev/urandom | hexdump | grep \"ca fe\"" ```
-| 4fun.  | 
+| ```alias cl="clear"``` | Clear the terminal. |
+| ``` alias cafe="cat /dev/urandom | hexdump | grep \"ca fe\"" ``` | 4fun.  | 
