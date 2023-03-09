@@ -1,4 +1,4 @@
-# **Hello,** I'm **Ernesto** José **Riveiro**
+# Hello, I'm Ernesto José Riveiro
 
 > _Jack of all trades, master of none, but oftentimes better than master of one._
 
@@ -33,7 +33,9 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
     | Spanish | Native |
     | English | Advanced | 
 
-### **5 Commands**
+-----
+
+### **5 Commands Learned**
 
 | commands | Description |
 | ------- | ------- |
@@ -43,7 +45,7 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
 | clear | Clear the terminal. | 
 | pwd | Shows the current folder we're in. | 
 
-### **2 Alias**
+### **2 Alias Learned**
 
 * ```alias cl="clear"``` Clear the terminal.
 * ``` alias cafe="cat /dev/urandom | hexdump | grep \"ca fe\"" ``` 4fun. 
