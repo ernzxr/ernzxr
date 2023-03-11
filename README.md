@@ -52,4 +52,4 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
 | alias | Code                                                          | Description          |
 | ----- | ------------------------------------------------------------- | -------------------- |
 | cl    | `alias cl="clear"`                                            | Clear the terminal.  |
-| cafe  | `alias cafe="cat /dev/urandom \| hexdump \| grep \\"ca fe\\""`| Look for coffe.      |
+| cafe  | `alias cafe="cat /dev/urandom \| hexdump \| grep \"ca fe\""`  | Look for coffe.      |
