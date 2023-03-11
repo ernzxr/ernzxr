@@ -41,15 +41,15 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
 
 | command  | Description                                          |
 | -------- | ---------------------------------------------------- |
-| ls       | Shows a list of elements inside the folder we're in. |
-| mkdir    | Used to make a new directory.                        | 
-| cd       | Used to navigate across folders.                     | 
-| clear    | Clear the terminal.                                  | 
-| pwd      | Shows the current folder we're in.                   | 
+| `ls`     | Shows a list of elements inside the folder we're in. |
+| `mkdir`  | Used to make a new directory.                        | 
+| `cd`     | Used to navigate across folders.                     | 
+| `clear`  | Clear the terminal.                                  | 
+| `pwd`    | Shows the current folder we're in.                   | 
 
 * #### **2 Alias Learned**
 
-| alias | Code                                                          | Description          |
-| ----- | ------------------------------------------------------------- | -------------------- |
-| cl    | `alias cl="clear"`                                            | Clear the terminal.  |
-| cafe  | `alias cafe="cat /dev/urandom \| hexdump \| grep \"ca fe\""`  | Look for coffe.      |
+| alias  | Code                                                          | Description          |
+| ------ | ------------------------------------------------------------- | -------------------- |
+| `cl`   | `alias cl="clear"`                                            | Clear the terminal.  |
+| `cafe` | `alias cafe="cat /dev/urandom \| hexdump \| grep \"ca fe\""`  | Look for coffe.      |
