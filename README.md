@@ -30,7 +30,7 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
     * Slack, Discord
     * Google Suite
 * ***Languages***
-    | Language | Level    |
+    | Language  | Level    |
     | --------- | -------- |
     | Spanish   | Native   |
     | English   | Advanced | 
@@ -39,7 +39,7 @@ With time i realiced i loved programming. In the past i worked as IT support, wh
 
 * #### **5 Commands Learned**
 
-| command | Description                                          |
+| command  | Description                                          |
 | -------- | ---------------------------------------------------- |
 | ls       | Shows a list of elements inside the folder we're in. |
 | mkdir    | Used to make a new directory.                        | 
